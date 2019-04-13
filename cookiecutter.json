@@ -1,0 +1,5 @@
+{
+    "project_name": "alien_api",
+    "app_name": "alien",
+    "use_celery": ["no", "yes"]
+}
